@@ -1,0 +1,7 @@
+Package: zabbix-frontend-docker
+Architecture: all
+Provides: php-mysql, php-pgsql, php-mbstring, php-bcmath, php-xml, php-gd, php-ldap, php-curl
+Description: Local Zabbix package
+ A package, which provides the PHP dependencies for zabbix-frontend-php
+ in case PHP is run in a virtual environment (docker)
+

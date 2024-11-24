@@ -1,0 +1,10 @@
+*~
+.gitmessage.txt
+*/.debhelper/
+*/debhelper-build-stamp
+*/files
+*/*.substvars
+*.1
+*.deb
+*.changes
+*.build*
